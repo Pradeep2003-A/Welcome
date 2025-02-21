@@ -64,7 +64,6 @@
                 tempore, dicta laborum ea ipsam similique harum. Veniam obcaecati minus dolore sapiente <br> quis eaque placeat maxime architecto porro consectetur.</p>
 
                 <h2 style="font-size: larger;color: rgb(6, 1, 1); text-align: center;font-size: x-large;">New UPDATE</h2>
-
                 <style>
                   .new {
                     display: grid;
